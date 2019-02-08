@@ -1,5 +1,5 @@
 {
-    "name": "devwellington/brazilian-ddd-to-uf",
+    "name": "idealizetecnologia/brazilian-ddd-to-uf",
     "description": "Um Helper para converter o DDD para a UF",
     "type": "helper",
     "keywords": ["helper", "phone", "ddd", "uf", "brazilian"],
